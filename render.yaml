@@ -3,5 +3,4 @@ services:
     name: shadowsocks
     env: docker
     plan: free
-    repo: https://github.com/matin651/shadowsocks-on-render
     dockerfilePath: ./Dockerfile
